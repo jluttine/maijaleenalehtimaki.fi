@@ -9,19 +9,21 @@
 
             {% include navbar.html %}
 
-            <main class="container clear-top">
+            <div id="content">
+                <div class="container clear-top">
 
-                <div class="row">
-                    <main class="col-xs-12 col-lg-8">
-                        {{ content }}
-                    </main>
+                    <div class="row">
+                        <main class="col-xs-12 col-lg-8">
+                            {{ content }}
+                        </main>
 
-                    <aside class="col-xs-12 col-lg-offset-1 col-lg-3">
-                        {% include recent.html %}
-                    </aside>
+                        <aside class="col-xs-12 col-lg-offset-1 col-lg-3">
+                            {% include recent.html %}
+                        </aside>
+                    </div>
+
                 </div>
-
-            </main>
+            </div>
 
         </div>
 
