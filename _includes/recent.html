@@ -1,0 +1,46 @@
+<h2>Tuoreimmat uutiset</h2>
+
+{% for post in site.posts limit:3 %}
+<p>
+    <a
+        class="post-link"
+        href="{{ post.url | prepend: site.baseurl }}"
+    >
+        {{ post.title }}
+
+    </a>
+
+    <br />
+
+    <small><i>{% include translated_date.html date=post.date %}</i></small>
+
+    {{ post.excerpt }}
+
+</p>
+<br />
+{% endfor %}
+
+<form
+    method="post"
+    target="popupwindow"
+    action="http://www.specificfeeds.com/widgets/subscribeWidget/SXdwWUpFVWJqWWVlZWNwL1h5eDFaeGtHWTFscWg0NWlBKzdnM1RsMm9VSmJKcGVKbEJENndmV1ltVTh3SWgyS3dOclhOZ3JzSTZ4VUJLNWNnd0JaS1J0dDJNajRxM0J0MkRjZFBMZC9CSHlLak5qSmFyRVVJTFk0Q2J6UlVUN218YkgwK1BZT1BMTlhuOGk4SzVXYyt5NW1EemoydXJ1U1Z1NUlhZFVTeGFCOD0=/8/"
+>
+    <p>
+        Voit
+        <a href="http://feeds.specificfeeds.com/fysioterapeutti-maijadleena-lehtimaki?subParam=followPub"> tilata uutiset sähköpostiisi</a>:
+    </p>
+    <p>
+        <input name="data[Widget][email]" placeholder="Sähköpostiosoite" value="" type="text" class="email-field">
+        <input name="data[Widget][feed_id]" value="SXdwWUpFVWJqWWVlZWNwL1h5eDFaeGtHWTFscWg0NWlBKzdnM1RsMm9VSmJKcGVKbEJENndmV1ltVTh3SWgyS3dOclhOZ3JzSTZ4VUJLNWNnd0JaS1J0dDJNajRxM0J0MkRjZFBMZC9CSHlLak5qSmFyRVVJTFk0Q2J6UlVUN218YkgwK1BZT1BMTlhuOGk4SzVXYyt5NW1EemoydXJ1U1Z1NUlhZFVTeGFCOD0=" type="hidden">
+        <input name="data[Widget][feedtype]" value="8" type="hidden">
+        <input value="Tilaa" name="subscribe" type="submit" class="btn btn-primary">
+    </p>
+</form>
+<p class="rss-subscribe">
+    Saatavilla myös
+    <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS-syötteenä</a>.
+    <i class="fa fa-rss" aria-hidden="true"></i>
+</p>
+<p>
+    Tykkää <a href="https://www.facebook.com/MaijaLeena">Facebook-sivustani</a>.
+</p>
