@@ -12,10 +12,10 @@ menu: main
         class="post-link"
         href="{{ post.url | prepend: site.baseurl }}"
     >
-        <h3>{{ post.title }}</h3>
+        <h3>{% include translated_date.html date=post.date %} &#8212; {{ post.title }}</h3>
     </a>
 
-    <small><i>{{ post.date | date: "%A %e.%-m.%Y" }}</i></small>
+    <small><i></i></small>
 
     {{ post.excerpt }}
     </article>

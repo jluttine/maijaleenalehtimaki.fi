@@ -21,7 +21,7 @@ url: "https://jluttine.github.io"
 
 include: ["_pages"]
 
-date_format: "%A %e.%-m.%Y"
+date_format: "%e.%-m.%Y"
 lang: fi
 
 permalink: /:year:month:day-:title/
