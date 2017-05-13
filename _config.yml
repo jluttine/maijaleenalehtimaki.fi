@@ -17,7 +17,7 @@ footer: Fysioterapeutti Maija-Leena Lehtimäki Y-tunnus 11420481
 #url: "https://jluttine.github.io"
 # Real production domain
 baseurl: ""
-url: "http://www.maijaleenalehtimaki.fi"
+url: "http://maijaleenalehtimaki.fi"
 
 include: ["_pages"]
 
