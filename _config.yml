@@ -13,11 +13,11 @@ description: > # this means to ignore newlines until "baseurl:"
 footer: Fysioterapeutti Maija-Leena Lehtimäki Y-tunnus 11420481
 
 # GitHub pages
-baseurl: "/maijaleenalehtimaki.fi"
-url: "https://jluttine.github.io"
+#baseurl: "/maijaleenalehtimaki.fi"
+#url: "https://jluttine.github.io"
 # Real production domain
-#baseurl: ""
-#url: "http://www.maijaleenalehtimaki.fi"
+baseurl: ""
+url: "http://www.maijaleenalehtimaki.fi"
 
 include: ["_pages"]
 
