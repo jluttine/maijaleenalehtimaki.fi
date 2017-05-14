@@ -40,12 +40,10 @@ pysäköintitilaa.
 Sisäänkäynti on talon vastakkaiselta puolelta 2D-rapusta. Hoitotilani ovi on
 käytävän perällä. Nimeäni ei lue asukasilmoitustaulussa.
 
-
-## **PÄIVITÄ BUSSIT?!?!?!!?!?!!!!!!!**
-
-
-Lähimmäksi pääset busseilla 17 ja 25, jotka kulkevat Sammonkadun kautta Sammon
-valtatielle. Lisäksi 3 ja 5 kulkee Hervannan valtaväylää ja 27 ja 29
-Takahuhdintietä pitkin.
-
-<iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1904.14228177211!2d23.829252699999998!3d61.494027!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x468f209de75f831b%3A0x401dd774022b0955!2sVipusenkatu+3%2C+33530+Tampere!5e0!3m2!1sen!2sfi!4v1411829554925" width="600" height="450" frameborder="0"></iframe>
+<iframe
+style="border: 0;"
+src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1904.14228177211!2d23.829252699999998!3d61.494027!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x468f209de75f831b%3A0x401dd774022b0955!2sVipusenkatu+3%2C+33530+Tampere!5e0!3m2!1sen!2sfi!4v1411829554925"
+width="600"
+height="450"
+frameborder="0">
+</iframe>
