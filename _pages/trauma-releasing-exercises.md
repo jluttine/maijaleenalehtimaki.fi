@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Trauma Releasing Exercises
 permalink: /trauma-releasing-exercises/
 menu: none

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Essential Motion
 permalink: /essential-motion/
 menu: none

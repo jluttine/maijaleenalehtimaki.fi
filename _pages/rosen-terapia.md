@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Rosen-terapia
 permalink: /rosen-terapia/
 menu: none

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Kurssit ja ryhmät
 permalink: /kurssit-ja-ryhmat/
 ---

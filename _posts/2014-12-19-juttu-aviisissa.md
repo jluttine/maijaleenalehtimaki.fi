@@ -1,6 +1,5 @@
 ---
 title: Juttu ylioppilaslehti Aviisissa
-layout: post
 ---
 
 Tampereen ylioppilaslehti Aviisi vieraili kehotietoisuus- ja tärinäryhmässä. Lue

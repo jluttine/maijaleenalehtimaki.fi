@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Lähestymistapani
 permalink: /lahestymistapani/
 ---

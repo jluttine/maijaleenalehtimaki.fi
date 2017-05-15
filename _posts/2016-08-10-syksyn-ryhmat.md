@@ -1,6 +1,5 @@
 ---
 title: Syksyn ryhmien aikataulut
-layout: post
 ---
 
 Syksyn ryhmien aikataulut on

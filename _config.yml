@@ -34,6 +34,12 @@ markdown: kramdown
 defaults:
   -
     scope:
+      path: "_posts"
+    values:
+      layout: "post"
+  -
+    scope:
       path: "_pages"
     values:
+      layout: "page"
       menu: "main"
