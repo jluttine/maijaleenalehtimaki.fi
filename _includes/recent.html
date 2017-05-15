@@ -25,10 +25,16 @@
 </p>
 {% include subscribe.html %}
 <p class="rss-subscribe">
+    {% include icon-rss.html %}
     Saatavilla myös
-    <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS-syötteenä</a>.
-    <i class="fa fa-rss" aria-hidden="true"></i>
+    <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+        RSS-syötteenä
+    </a>.
 </p>
 <p>
-    Tykkää <a href="https://www.facebook.com/MaijaLeena">Facebook-sivustani</a>.
+    {% include icon-facebook.html %}
+    Tykkää
+    <a href="https://www.facebook.com/MaijaLeena">
+        Facebook-sivustani
+    </a>.
 </p>
