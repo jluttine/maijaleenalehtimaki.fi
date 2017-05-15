@@ -12,6 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Psykofyysistä fysioterapiaa: Autan sinua löytämään turvallisen tilan kehossasi
 footer: Fysioterapeutti Maija-Leena Lehtimäki Y-tunnus 11420481
 
+timezone: Europe/Helsinki
+
 # GitHub pages
 #baseurl: "/maijaleenalehtimaki.fi"
 #url: "https://jluttine.github.io"
