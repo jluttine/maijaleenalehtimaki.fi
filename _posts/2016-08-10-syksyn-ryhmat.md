@@ -1,5 +1,6 @@
 ---
 title: Syksyn ryhmien aikataulut
+date: 2016-08-10 14:30
 ---
 
 Syksyn ryhmien aikataulut on
