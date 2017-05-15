@@ -10,7 +10,11 @@ title: Fysioterapeutti Maija-Leena Lehtimäki
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Psykofyysistä fysioterapiaa: Autan sinua löytämään turvallisen tilan kehossasi
-footer: Fysioterapeutti Maija-Leena Lehtimäki Y-tunnus 11420481
+footer: >
+  Fysioterapeutti Maija-Leena Lehtimäki <a
+  href="https://tietopalvelu.ytj.fi/yritystiedot.aspx?yavain=957313&tarkiste=02BBDBAE25C0ED111F496DC6A50527C6D9536967">
+  Y-tunnus 11420481
+  </a>
 
 timezone: Europe/Helsinki
 
