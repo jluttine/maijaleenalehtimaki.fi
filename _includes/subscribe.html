@@ -1,0 +1,9 @@
+<form method="post" target="popupwindow" action="https://blogtrottr.com/"
+>
+    <p>
+        <input name="btr_email" placeholder="Sähköpostiosoite" value="" type="text" class="email-field">
+        <input name="btr_url" value="{{ site.url }}{{ site.baseurl }}{% link feed.xml %}" type="hidden">
+        <input name="schedule_type" value="0" type="hidden">
+        <input value="Tilaa" name="subscribe" type="submit" class="btn btn-primary">
+    </p>
+</form>
