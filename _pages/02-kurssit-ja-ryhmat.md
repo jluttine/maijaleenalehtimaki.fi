@@ -3,21 +3,36 @@ title: Kurssit ja ryhmät
 permalink: /kurssit-ja-ryhmat/
 ---
 
-### Kehotietoisuus ja tärinäryhmä perjantaisin klo 17-19
+### Kehotietoisuus- ja tärinäryhmä syksy 2018
 
-**TRE (Trauma Releasing Excercises)** on seitsemän liikkeen sarja, joka herättää tärinäreaktion ja lievittää jännitys- ja stressitilaa elimistössä. Aivorungon säätelemä tahdosta riippumaton tärinä purkaa patoutunutta energiaa ja palauttaa vähitellen normaalin lihasjäntevyyden ja hermoston tilan.
+**Parillisten viikkojen torstaina 9.8.-13.12.2018 klo 17-19**
 
-Ryhmä kokoontuu syksyllä 2016 parittomien viikkojen perjantai-iltoina klo 17-19, paitsi 28.10:
+**TRE (Trauma Releasing Excercises)** on seitsemän liikkeen sarja, joka herättää
+tärinäreaktion ja lievittää jännitys- ja stressitilaa elimistössä. Aivorungon
+säätelemä tahdosta riippumaton tärinä purkaa patoutunutta energiaa ja palauttaa
+vähitellen normaalin lihasjäntevyyden ja hermoston tilan.
 
-19.8.    2.9.   16.9.   30.9.    14.10.    11.11.   25.11.    9.12.
+Ryhmään pääsee TRE-peruskurssin tai yksilöohjauksen kautta ja osallistua voi
+tarpeen mukaan. Syksyn 2018 kokoontumiskerrat: 9.8., 23..8., 6.9., 20.9., 4.10.,
+18.10., 1.11., 15.11., 29.11. ja 13.12.
 
-Ryhmään pääsee TRE-peruskurssin tai yksilöohjauksen kautta ja osallistua voi tarpeen mukaan. Ilmoittaudu viimeistään 2 päivää aikaisemmin tekstiviestillä (040 5152 401) tai sähköpostilla (maija-leena.lehtimaki@pp.inet.fi).
+Ilmoittaudu viimeistään tiistaina klo 17 mennessä tekstiviestillä (040 5152 401)
+tai sähköpostilla (maija-leena.lehtimaki@pp.inet.fi).
 
-- kertamaksu 40 € / 120 min
+- kertamaksu 45 € / 120 min
 - 2 vrk ennen ryhmää peruutukset veloituksetta
-- pienryhmä, 4 – 8 osallistujaa
+- pienryhmä, 3–8 henkilöä
 
-**Ohjaajina ft Maija-Leena Lehtimäki ja LT Mauri Lehtimäki.**
+**Ohjaajat**
+
+**Maija-Leena Lehtimäki**
+
+- fysioterapeutti, Rosen-terapeutti, sertifioitu TRE-ohjaaja, Essential Motion -ohjaaja
+
+
+**Mauri Lehtimäki**
+
+- sertifioitu TRE-ohjaaja, kirurgi, ortopedian ja traumatologian erikoislääkäri
 
 Lue lisää:
 
@@ -27,18 +42,29 @@ Lue lisää:
 
 ### Muita ryhmiä
 
-**Kehotietoisuus- ja tärinäryhmä keskiviikkoisin klo 18.30-20**
+**Kehotietoisuus- ja tärinäryhmä**
 
-Syksyllä joka keskiviikko 17.8.-14.12. klo 18.30-20
+**Parittomien viikkojen keskiviikkoina 29.8.-5.12.2018 klo 18.30-20***
+
+- Ilmoittaudu viimeistään ma 18.30 mennessä.
+- Peruutukset veloituksetta viimeistään 2 vrk ennen ryhmää.
+- Kertamaksu 35€ / 90min ja sarjahinta 150€ 5x90min
+- pienryhmä 3-7 henkilöä
 
 Ohjaaja: Nina Reinikainen
-
-Lisätietoja: [rosenterapia.nettisivu.org/tre-tarinaterapia/](http://rosenterapia.nettisivu.org/tre-tarinaterapia/)
+- Koulutettu hieroja, Rosen-terapeutti, sertifioitu TRE-ohjaaja
+- Puh. 0400 682 129
+- rosenterapia@gmail.com
+- [rosenterapia.nettisivu.org](http://www.rosenterapia.nettisivu.org/)
 
 ---
 
-**Feldenkrais®-tunnit perjantaisin klo 10-11**
+**Feldenkrais®-tunnit perjantaisin 17.8.2018 lähtien klo 10-11**
 
-Ohjaaja: Piia Surakka
+10€/tunti, 80€ 10 kerran kortti
 
-Lisätietoja: [Liikelaboratorio](http://www.liikelaboratorio.fi/atm.html)
+Ohjaaja: Jussi Riissanen
+- Feldenkrais-opettaja
+- Puh 050 3015753
+- jussiriissanen@gmail.com
+- [www.jussiriissanen.com](http://www.jussiriissanen.com)
