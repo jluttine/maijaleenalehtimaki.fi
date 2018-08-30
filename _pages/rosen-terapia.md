@@ -162,9 +162,15 @@ ilmiöiden kuvaamiseen Rosen-terapiaprosessissa.
 
 ---
 
-Rosen-terapian kansainväliset
-sivut: [rosenmethod.com](http://www.rosensouthwest.com/)
-ja [rosensouthwest.com](http://www.rosensouthwest.com/)
+Linkkejä:
+
+- [rosenmethod.com](http://www.rosensouthwest.com/)
+
+- [rosensouthwest.com](http://www.rosensouthwest.com/)
+
+- [roseninstitute.net](http://roseninstitute.net)
+
+- [rosenterapeutit.fi](http://rosenterapeutit.fi)
 
 ---
 
