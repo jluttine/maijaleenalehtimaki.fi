@@ -44,7 +44,7 @@ Lue lisää:
 
 **Kehotietoisuus- ja tärinäryhmä**
 
-**Parittomien viikkojen keskiviikkoina 29.8.-5.12.2018 klo 18.30-20***
+**Parittomien viikkojen keskiviikkoina 29.8.-5.12.2018 klo 18.30-20**
 
 - Ilmoittaudu viimeistään ma 18.30 mennessä.
 - Peruutukset veloituksetta viimeistään 2 vrk ennen ryhmää.
