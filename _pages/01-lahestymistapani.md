@@ -12,7 +12,8 @@ kulloinkin sopivia psykofyysisiä menetelmiä.
 
 - [Essential Motion]({{ site.baseurl }}{% link _pages/essential-motion.md %})
 
-- [Trauma Releasing Exercises]({{ site.baseurl }}{% link _pages/trauma-releasing-exercises.md %})
+- [Trauma Releasing Exercises]({{ site.baseurl }}{% link
+  _pages/trauma-releasing-exercises.md %})
 
 Etsimme yhdessä muutosta ja helpotusta erilaisiin psykofyysisiin oireisiin
 kehosi tarpeista lähtien. Työkaluina ovat turvallinen vuorovaikutus, nähdyksi ja
