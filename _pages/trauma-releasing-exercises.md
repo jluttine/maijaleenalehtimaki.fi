@@ -12,7 +12,8 @@ traumaattisten kokemusten jännittämiä lihaksia. Trauma Releasing Exercises
 nykyhetken stressinhallinnassa.
 
 Trauma Releasing Exercises -ohjausta on tarjolla sekä yksilö- että
-ryhmäohjauksena. Ryhmien aikataulut löydät täältä.
+ryhmäohjauksena. Ryhmien aikataulut löydät [Kurssit ja ryhmät -sivulta]({{
+site.url }}{{ site.baseul }}{% link _pages/02-kurssit-ja-ryhmat.md %})
 
 ---
 
