@@ -164,13 +164,9 @@ ilmiöiden kuvaamiseen Rosen-terapiaprosessissa.
 
 Linkkejä:
 
-- [rosenmethod.com](http://www.rosensouthwest.com/)
-
-- [rosensouthwest.com](http://www.rosensouthwest.com/)
+- [rosenterapeutit.fi](http://rosenterapeutit.fi)
 
 - [roseninstitute.net](http://roseninstitute.net)
-
-- [rosenterapeutit.fi](http://rosenterapeutit.fi)
 
 ---
 
