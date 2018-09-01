@@ -21,8 +21,6 @@ tärinäryhmässämme.** Lue
 juttu
 [täältä](http://www.aviisi.fi/2014/12/varma-nainen-vapisee-tosimies-tutisee/).
 
-[TRE-esite (PDF)]({{ site.baseurl }}{% link media/tre-esite.pdf %})
-
 ---
 
 Trauma Releasing Exercises -menetelmää on esitelty myös seuraavilla sivuilla.

@@ -12,6 +12,8 @@ tärinäreaktion ja lievittää jännitys- ja stressitilaa elimistössä. Aivoru
 säätelemä tahdosta riippumaton tärinä purkaa patoutunutta energiaa ja palauttaa
 vähitellen normaalin lihasjäntevyyden ja hermoston tilan.
 
+Lue lisää [ryhmäinfosta (PDF).]({{ site.baseurl }}{% link media/esite.pdf %})
+
 Ryhmään pääsee TRE-peruskurssin tai yksilöohjauksen kautta ja osallistua voi
 tarpeen mukaan. Syksyn 2018 kokoontumiskerrat: 9.8., 23..8., 6.9., 20.9., 4.10.,
 18.10., 1.11., 15.11., 29.11. ja 13.12.
