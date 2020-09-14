@@ -1,5 +1,5 @@
 ---
-title: Lähestymistapani
+title: Psykofyysinen fysioterapia
 permalink: /lahestymistapani/
 ---
 
