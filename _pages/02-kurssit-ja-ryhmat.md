@@ -14,7 +14,7 @@ lisäksi ryhmässä tehdään muita harjoitteita, jotka lisäävät kehotietoisu
 etenevää psoas-harjoitusta yhteyden löytämiseksi omaan keskustaan. Oman itsen johtajuutta vahvistetaan Pesso Boyden
 System Psychomotor -harjoituksilla, jotka ovat yksinkertaisia ja tarkasti ohjattuja kehollisia harjoituksia. Lisäksi saat tarpeen mukaan tietoa mm. vireystiloista, psoas- eli lonkankoukistajalihaksesta sekä hengityksestä.
 
-Ryhmässä on kaksi ohjaajaa, joten jokainen osallistuja saa tarpeen mukaan ohjausta ja tukea. Voit opetella tunnistamaan omaa vireystilaasi ja tunteitasi sekä kehittää itsesäätelyä ja palautua aktiivisilla rentouttavilla harjoitteilla.
+Ryhmässä on kaksi TRE-ohjaajaa, joten jokainen osallistuja saa tarpeen mukaan ohjausta ja tukea. Voit opetella tunnistamaan omaa vireystilaasi ja tunteitasi sekä kehittää itsesäätelyä ja palautua aktiivisilla rentouttavilla harjoitteilla.
 
 Varaa ensin aika yksilöohjaukseen, jossa arvioidaan ryhmän soveltuvuus sinulle. Voit osallistua ryhmäkertoihin tarpeen
 mukaan, mutta suurimman hyödyn saat osallistumalla säännöllisesti. Huomioithan muut tulemalla puhtaissa vaatteissa ja ilman hajusteita, sekä jääthän kotiin, jos sinulla on infektio-oireita.
