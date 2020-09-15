@@ -39,6 +39,6 @@ Trailheads Publications 2001
 
 ---
 
-Lähestymistapaani voit
+Essential Motion on yksi käyttämäni psykofyysisen fysioterapian menetelmä. Lähestymistapaani voit
 yleisesti
 tutustua [täällä]({{ site.baseurl }}{% link _pages/01-lahestymistapani.md %}).
