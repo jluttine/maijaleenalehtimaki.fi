@@ -4,7 +4,7 @@ permalink: /lahestymistapani/
 ---
 ---
 
-Käyttämieni psykofyysisten lähestymistapojen avulla löydät turvallisen tilan
+Käyttämieni psykofyysisen fysioterapian lähestymistapojen avulla löydät turvallisen tilan
 omassa kehossasi. Työskentelyn myötä kehotietoisuus, rentous ja itsetuntemus
 lisääntyvät sekä voimavarat elpyvät. Kohtaan sinut kokonaisvaltaisesti käyttäen 
 kulloinkin sopivia psykofyysisiä menetelmiä.
@@ -24,7 +24,7 @@ turvallinen purkaminen, mikä vapauttaa hengitystä ja lihasjännityksiä, norma
 vireystilaa ja helpottaa oman toiminnan ohjausta. Kun oppii havainnoimaan kipuja, 
 lihasjännitystä, stressireaktioita ja uupumusta kehossa sekä oivaltaa niiden syitä, 
 on helpompi tunnistaa omia tarpeita ja pitää huolta itsestä juuri kullakin hetkellä 
-sopivalla tavalla. Myös läsnäolo ja itsetuntemus lisääntyvät.
+sopivalla tavalla. Psykofyysinen fysioterapia lisää myös läsnäoloa ja itsetuntemusta.
 
 ### Pitkittynyt stressi ja trauma heikentävät kehotietoisuutta
 
@@ -41,4 +41,4 @@ yhteys omiin voimavaroihin ja toisiin ihmisiin.
 
 ### Terapian aloitus
 
-Yhteen tapaamiseen varataan aikaa 70 minuuttia. Hoitotiheyttä sovitellaan niin, että saat tarpeeksi tukea ja kannattelua mutta toisaalta riittävästi aikaa työstää edellisellä terapiakerralla käynnistynyttä prosessia ennen uutta tapaamista. Alkuun sovitaan 1-3 tapaamista, joiden aikana saat käsityksen, sopiiko psykofyysinen lähestymistapa sinulle ja toimivatko henkilökemiat. Minä terapeuttina myös omasta puolestani arvioin, voinko olla sinulle avuksi.
+Yhteen tapaamiseen varataan aikaa 70 minuuttia. Hoitotiheyttä sovitellaan niin, että saat tarpeeksi tukea ja kannattelua mutta toisaalta riittävästi aikaa työstää edellisellä terapiakerralla käynnistynyttä prosessia ennen uutta tapaamista. Alkuun sovitaan 1-3 tapaamista, joiden aikana saat käsityksen, sopiiko psykofyysinen fysioterapia lähestymistapana sinulle ja toimivatko henkilökemiat. Minä terapeuttina myös omasta puolestani arvioin, voinko olla sinulle avuksi.
