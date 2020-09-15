@@ -3,7 +3,7 @@ title: Trauma Releasing Exercises
 permalink: /trauma-releasing-exercises/
 menu: none
 ---
-
+---
 TRAUMA RELEASING EXERCISES eli TRE on liikesarja, joka herättää lihasten luonnollisen vapinan
 tai tärinän. Tärinä on aivorungon säätelemä tahdosta riippumaton
 palautumismekanismi. Se rentouttaa, aktivoi ja mobilisoi stressin tai
@@ -32,5 +32,5 @@ Trauma Releasing Exercises -menetelmää on esitelty myös seuraavilla sivuilla.
 
 ---
 
-Lähestymistapaani voit yleisesti
+Trauma Releasing Exercises on yksi käyttämistäni menetelmistä. Lähestymistapaani voit yleisesti
 tutustua [täällä]({{ site.baseurl }}{% link _pages/01-lahestymistapani.md %}).
