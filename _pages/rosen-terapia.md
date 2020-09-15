@@ -3,6 +3,7 @@ title: Rosen-terapia
 permalink: /rosen-terapia/
 menu: none
 ---
+---
 
 Rosen-terapiassa jännittyneitä lihaksia käsitellään lihasjännitystä vastaavalla voimakkuudella ja seuraten kehon reaktioita kosketukseen. Terapeutti käyttää rauhallista kuuntelevaa kosketusta sekä kuvailee havaintojaan sanoin. Saat tulla vuorovaikutukseen omalla tavallasi ja omilla ehdoillasi. 
 
