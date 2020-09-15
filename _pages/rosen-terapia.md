@@ -73,7 +73,7 @@ Nykyinen aivotutkimus on vaikuttanut k채채nteentekev채sti l채채ketieteen ihmisk�
 
 ---
 
-Linkkej채:
+### Linkkej채
 
 - [rosenterapeutit.fi](http://rosenterapeutit.fi)
 
