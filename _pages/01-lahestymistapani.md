@@ -35,12 +35,9 @@ koska aistimukset ovat olleet liian voimakkaita vastaanotettavaksi ja elimistö 
 sulkemalla ne pois. Samalla usein myös kognitiiviset taidot ja sosiaalinen sitoutuminen heikkenevät. 
 Jos myöhemmin tulee mahdolliseksi käsitellä tällaiseen tilanteeseen liittyviä kokemuksia ja tunteita, 
 poissuljetut aistimukset sekä niitä kantavat kehon osat, tunteet ja muistot voivat tulla uudelleen 
-osaksi minäkuvaa. Tämä mahdollistaa kehon rasitustilojen vähenemisen tasapainoisen kehon käytön myötä
-sekä yhteyden omiin voimavaroihin ja toisiin ihmisiin.
+osaksi minäkuvaa. Kehon tasapainoisen käytön myötä kehon rasitustilat vähenevät ja on mahdollista löytää 
+yhteys omiin voimavaroihin ja toisiin ihmisiin.
 
 ### Terapian aloitus
 
-Alkuun sovitaan 1-3 tapaamista, joiden aikana saat käsityksen, sopiiko psykofyysinen lähestymistapa sinulle ja toimivatko henkilökemiat. Minä terapeuttina myös omasta puolestani arvioin, voinko olla sinulle avuksi.
-
-Yhteen tapaamiseen varataan aikaa 70 minuuttia. Hoitotiheyttä sovitellaan niin, että saat tarpeeksi tukea ja kannattelua mutta toisaalta riittävästi aikaa työstää edellisellä terapiakerralla käynnistynyttä prosessia ennen uutta tapaamista.
-
+Yhteen tapaamiseen varataan aikaa 70 minuuttia. Hoitotiheyttä sovitellaan niin, että saat tarpeeksi tukea ja kannattelua mutta toisaalta riittävästi aikaa työstää edellisellä terapiakerralla käynnistynyttä prosessia ennen uutta tapaamista. Alkuun sovitaan 1-3 tapaamista, joiden aikana saat käsityksen, sopiiko psykofyysinen lähestymistapa sinulle ja toimivatko henkilökemiat. Minä terapeuttina myös omasta puolestani arvioin, voinko olla sinulle avuksi.
