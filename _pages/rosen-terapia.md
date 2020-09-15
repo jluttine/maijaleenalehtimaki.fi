@@ -4,15 +4,6 @@ permalink: /rosen-terapia/
 menu: none
 ---
 
-Rosen-terapia on yksi käyttämistäni menetelmistä. Lähestymistapaani voit
-yleisesti tutustua [täällä]({{ site.baseurl }}{% link _pages/01-lahestymistapani.md %}).
-
----
-
-### ROSEN-TERAPIALLA SYVÄÄ RENTOUTUMISTA JA ITSETUNTEMUSTA
-
-### KOSKETUS   -    HENGITYS    –     LIIKE     –     TIETOISUUS
-
 Rosen-terapiassa jännittyneitä lihaksia käsitellään lihasjännitystä vastaavalla voimakkuudella ja seuraten kehon reaktioita kosketukseen. Terapeutti käyttää rauhallista kuuntelevaa kosketusta sekä kuvailee havaintojaan sanoin. Saat tulla vuorovaikutukseen omalla tavallasi ja omilla ehdoillasi. 
 
 ### Mitä Rosen-terapia sisältää?
@@ -121,3 +112,7 @@ häiriintyminen Sanoma Pro 2005
 
 **Pat Ogden, Kekuni Minton, Clare Pain:** Trauma ja keho. Sensorimotorinen
 psykoterapia. Traumaterapiakeskus 2009
+
+---
+Rosen-terapia on yksi käyttämistäni menetelmistä. Lähestymistapaani voit
+yleisesti tutustua [täällä]({{ site.baseurl }}{% link _pages/01-lahestymistapani.md %}).
