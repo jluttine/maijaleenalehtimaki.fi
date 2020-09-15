@@ -2,6 +2,7 @@
 title: Psykofyysinen fysioterapia
 permalink: /lahestymistapani/
 ---
+---
 
 Käyttämieni psykofyysisten lähestymistapojen avulla löydät turvallisen tilan
 omassa kehossasi. Työskentelyn myötä kehotietoisuus, rentous ja itsetuntemus
