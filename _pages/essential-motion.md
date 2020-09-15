@@ -3,7 +3,7 @@ title: Essential Motion
 permalink: /essential-motion/
 menu: none
 ---
-
+---
 Essential Motion (eli olennainen liike) on kehotietoisuutta lisäävää kehollista työskentelyä. Lähdemme liikkeelle juuri sillä hetkellä kehossasi tuntuvasta kivusta, muusta tuntemuksesta tai teemasta, jota haluat tutkia. Alkuun voit liikkua ja tunnistella, mitä kehossasi juuri nyt aistit. Usein tulee esiin jokin spontaani liike tai asento, jota et ole tiedostanut mutta jonka nyt ohjaajan kehollisen ja sanallisen peilauksen avulla havaitset.
 
 Fysioterapeutti tukee sinua tutkimaan ja sanoittamaan kehollisia tuntemuksiasi. Voit löytää yhteyden siihen, mitä tunnetilaa ja kokemusta tämä olennainen liike edustaa. Latautuneen kokemuksen purkautuminen helpottaa kehoasi, tasaa tunnetilaasi ja lisää mahdollisuutta luonnolliseen liikkumiseen. Sanoittamalla kokemus jäsentyy.
