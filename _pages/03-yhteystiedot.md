@@ -20,6 +20,7 @@ tarpeidesi mukaan.
 **Sähköposti:** [maija-leena.lehtimaki@pp.inet.fi](mailto:maija-leena.lehtimaki@pp.inet.fi)
 
 **Osoite:** Uudenkylänkuja 2 D (= Vipusenkatu 3), 33530 Tampere
+
 ---
 <iframe
 style="border: 0;"
