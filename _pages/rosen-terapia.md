@@ -115,5 +115,5 @@ häiriintyminen Sanoma Pro 2005
 psykoterapia. Traumaterapiakeskus 2009
 
 ---
-Rosen-terapia on yksi käyttämistäni menetelmistä. Lähestymistapaani voit
+Rosen-terapia on yksi käyttämäni psykofyysisen fysioterapian menetelmistä. Lähestymistapaani voit
 yleisesti tutustua [täällä]({{ site.baseurl }}{% link _pages/01-lahestymistapani.md %}).
