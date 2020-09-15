@@ -71,6 +71,8 @@ Nykyinen aivotutkimus on vaikuttanut k채채nteentekev채sti l채채ketieteen ihmisk�
 
 - [roseninstitute.net](http://roseninstitute.net)
 
+- [Tunnetaitoja vahvistetaan korjaavien kokemusten kautta](https://www.tunnejataida.fi/tunnetaitoja-vahvistetaan-korjaavien-vuorovaikutuskokemusten-kautta)
+
 ---
 
 ### Kirjallisuutta
