@@ -43,7 +43,7 @@ pelastustie-merkin kohdalta vasemmalle pitkän kerrostalon pihaan (päädyssä
 pyykkinarut).
 
 Sisäänkäynti on talon vastakkaiselta puolelta 2D-rapusta. Hoitotilani ovi on
-käytävän perällä. Nimeäni ei lue asukasilmoitustaulussa.
+käytävän perällä.
 
 ### Pysäköinti
 
