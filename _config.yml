@@ -53,6 +53,3 @@ defaults:
 
 plugins:
   - jekyll-redirect-from
-
-whitelist:
-  - jekyll-redirect-from
