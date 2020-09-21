@@ -41,4 +41,4 @@ Trailheads Publications 2001
 
 Essential Motion on yksi käyttämäni psykofyysisen fysioterapian menetelmä. Lähestymistapaani voit
 yleisesti
-tutustua [täällä]({{ site.baseurl }}{% link _pages/01-lahestymistapani.md %}).
+tutustua [täällä]({{ site.baseurl }}{% link _pages/01-psykofyysinen-fysioterapia.md %}).

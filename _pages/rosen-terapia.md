@@ -5,7 +5,7 @@ menu: none
 ---
 ---
 
-Rosen-terapiassa jännittyneitä lihaksia käsitellään lihasjännitystä vastaavalla voimakkuudella ja seuraten kehon reaktioita kosketukseen. Terapeutti käyttää rauhallista kuuntelevaa kosketusta sekä kuvailee havaintojaan sanoin. Saat tulla vuorovaikutukseen omalla tavallasi ja omilla ehdoillasi. 
+Rosen-terapiassa jännittyneitä lihaksia käsitellään lihasjännitystä vastaavalla voimakkuudella ja seuraten kehon reaktioita kosketukseen. Terapeutti käyttää rauhallista kuuntelevaa kosketusta sekä kuvailee havaintojaan sanoin. Saat tulla vuorovaikutukseen omalla tavallasi ja omilla ehdoillasi.
 
 ### Mitä Rosen-terapia sisältää?
 
@@ -17,7 +17,7 @@ Voimavarojesi mukaan annan myös kotiharjoituksia, joilla opit esimerkiksi rento
 
 ### Miten Rosen-terapia vaikuttaa?
 
-Rosen-terapian seurauksena tunnistat kehosi jännityksiä ja asentoja sekä suojamekanismejasi ja tunnetilojasi. Kun keho rentoutuu ja hengitys vapautuu virtaamaan läpi koko kehon, tietoisuuteen saattaa nousta unohdettuja tunteita ja tapahtumia sekä asenteita ja selviytymisstrategioita. Koettu tapahtuma voi nousta mieleen hyvin tuoreena ja elävänä ”kuin se tapahtuisi nyt”. Monesti kokemus koostuu sarjasta samankaltaisia tunnekokemuksia, jotka ovat tapahtuneet eri elämäntilanteissa. Terapeutti tukee sinua kosketuksen ja sanojen avulla niin, että voit sanoittaa kokemustasi, ja tässä hetkessä oleva minäsi on kokemuksen todistajana terapeutin kanssa. Olet turvassa ja aikuinen, mutta yhteydessä eri-ikäisen minäsi kokemuksiin. 
+Rosen-terapian seurauksena tunnistat kehosi jännityksiä ja asentoja sekä suojamekanismejasi ja tunnetilojasi. Kun keho rentoutuu ja hengitys vapautuu virtaamaan läpi koko kehon, tietoisuuteen saattaa nousta unohdettuja tunteita ja tapahtumia sekä asenteita ja selviytymisstrategioita. Koettu tapahtuma voi nousta mieleen hyvin tuoreena ja elävänä ”kuin se tapahtuisi nyt”. Monesti kokemus koostuu sarjasta samankaltaisia tunnekokemuksia, jotka ovat tapahtuneet eri elämäntilanteissa. Terapeutti tukee sinua kosketuksen ja sanojen avulla niin, että voit sanoittaa kokemustasi, ja tässä hetkessä oleva minäsi on kokemuksen todistajana terapeutin kanssa. Olet turvassa ja aikuinen, mutta yhteydessä eri-ikäisen minäsi kokemuksiin.
 
 Terapian kuluessa alat saada paremmin yhteyttä tunteisiisi ja elämänhistoriaasi. Minäkokemuksesi eheytyy, kun irrallaan olleet tunnekokemukset ja muistot asettuvat kohdalleen aikajatkumolle ja pois suljetut kohdat kehossasi tulevat osaksi kehonkuvaa.
 
@@ -118,4 +118,4 @@ psykoterapia. Traumaterapiakeskus 2009
 
 ---
 Rosen-terapia on yksi käyttämäni psykofyysisen fysioterapian menetelmistä. Lähestymistapaani voit
-yleisesti tutustua [täällä]({{ site.baseurl }}{% link _pages/01-lahestymistapani.md %}).
+yleisesti tutustua [täällä]({{ site.baseurl }}{% link _pages/01-psykofyysinen-fysioterapia.md %}).

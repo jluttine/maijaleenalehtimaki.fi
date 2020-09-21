@@ -33,4 +33,4 @@ Trauma Releasing Exercises -menetelmää on esitelty myös seuraavilla sivuilla.
 ---
 
 Trauma Releasing Exercises on yksi käyttämistäni psykofyysisen fysioterapian menetelmistä. Lähestymistapaani voit yleisesti
-tutustua [täällä]({{ site.baseurl }}{% link _pages/01-lahestymistapani.md %}).
+tutustua [täällä]({{ site.baseurl }}{% link _pages/01-psykofyysinen-fysioterapia.md %}).
