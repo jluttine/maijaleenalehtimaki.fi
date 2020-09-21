@@ -33,6 +33,13 @@ p {
     text-align: justify;
 }
 
+img[alt=Sisäänkäynti] {
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .header-frame {
     outline: 1px solid $text-color-dark;
     background-color: $text-color-light;
