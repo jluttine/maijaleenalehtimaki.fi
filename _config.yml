@@ -50,3 +50,9 @@ defaults:
     values:
       layout: "page"
       menu: "main"
+
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
