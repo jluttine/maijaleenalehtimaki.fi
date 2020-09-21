@@ -7,7 +7,7 @@ permalink: /yhteystiedot/
 **Maija-Leena Lehtimäki**
 
 
-[Fysioterapeutti]({{ site.baseurl }}{% link _pages/01-lahestymistapani.md %}),
+[Fysioterapeutti]({{ site.baseurl }}{% link _pages/01-psykofyysinen-fysioterapia.md %}),
 [Rosen-terapeutti]({{ site.baseurl }}{% link _pages/rosen-terapia.md %}),
 [Essential Motion -ohjaaja]({{ site.baseurl }}{% link _pages/essential-motion.md %}),
 [Trauma Releasing Exercises -ohjaaja]({{ site.baseurl }}{% link _pages/trauma-releasing-exercises.md %})
