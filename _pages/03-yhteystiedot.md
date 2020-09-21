@@ -22,14 +22,14 @@ tarpeidesi mukaan.
 **Osoite:** Uudenkylänkuja 2 D (= Vipusenkatu 3), 33530 Tampere
 
 ---
-<iframe
-style="border: 0;"
-src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1904.14228177211!2d23.829252699999998!3d61.494027!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x468f209de75f831b%3A0x401dd774022b0955!2sVipusenkatu+3%2C+33530+Tampere!5e0!3m2!1sen!2sfi!4v1411829554925"
-width="600"
-height="450"
-frameborder="0">
-</iframe>
+
+
+<div class="map">
+<iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=23.82615387439728%2C61.4930562512618%2C23.833234906196594%2C61.495375751650336&amp;layer=mapnik&amp;marker=61.49421602306869%2C23.829694390296936" style="border: 1px solid black"></iframe>
+</div>
+
 ---
+
 ![Sisäänkäynti]({{ site.baseurl }}{% link images/sisaankaynti.png %})
 
 ---
