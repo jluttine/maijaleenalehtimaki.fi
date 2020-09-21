@@ -1,10 +1,15 @@
-# Tietosuojaseloste
+---
+title: Tietosuojaseloste
+permalink: /tietosuojaseloste/
+menu: none
+---
+---
 
 **Rekisterinpitäjä:** Maija-Leena Lehtimäki
 
 **Tietosuojavastaava:** Maija-Leena Lehtimäki
-Y-tunnus 11420481 
-maija-leena.lehtimaki@pp.inet.fi 
+Y-tunnus 11420481
+maija-leena.lehtimaki@pp.inet.fi
 https://maijaleenalehtimaki.fi
 
 ### Henkilötietojen käsittelyn tarkoitus ja peruste
