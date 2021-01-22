@@ -3,9 +3,12 @@ title: Kurssit ja ryhmät
 permalink: /kurssit-ja-ryhmat/
 ---
 ---
+
+*Kevään 2021 ryhmät on valitettavasti peruttu koronatilanteen vuoksi. Toivottavasti päästään syksyllä jatkamaan! Turvallista kevättä, pysytään terveenä ja pidetään itsestämme ja toisistamme huolta!*
+
 ### Tension/Trauma Releasing Exercises -ryhmä syksyllä 2020
 
-#### Perjantaisin klo 17-19   
+#### Perjantaisin klo 17-19
 #### 28.8., 11.9., 9.10., 30.10., 20.11. ja 11.12.2020
 
 **TRE (Trauma Releasing Excercises)** on seitsemän liikkeen sarja, joka herättää kehon luonnollisen
